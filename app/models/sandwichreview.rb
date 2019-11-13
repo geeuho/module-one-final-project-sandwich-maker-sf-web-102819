@@ -1,4 +1,4 @@
 class SandwichReview < ActiveRecord::Base
-    belongs_to :sandwiches
-    belongs_to :users
+    belongs_to :sandwich
+    belongs_to :user
 end

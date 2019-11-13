@@ -20,5 +20,6 @@ require 'json'
 #               ~-..----~
 
 
-# binding.pry
+
+binding.pry
 puts "HELLO WORLD"
