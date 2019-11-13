@@ -1,7 +1,24 @@
 require_relative '../config/environment'
-require_relative '../app/models/ingredient'
 require 'pry'
+require 'rest-client'
+require 'json'
 
-binding.pry
 
+
+#                     _.---._
+#                 _.-~       ~-._
+#             _.-~               ~-._
+#         _.-~                       ~---._
+#     _.-~                                 ~\
+#  .-~                                    _.;
+#  :-._                               _.-~ ./
+#  }-._~-._                   _..__.-~ _.-~)
+#  `-._~-._~-._              / .__..--~_.-~
+#      ~-._~-._\.        _.-~_/ _..--~~
+#          ~-. \`--...--~_.-~/~~
+#             \.`--...--~_.-~
+#               ~-..----~
+
+
+# binding.pry
 puts "HELLO WORLD"
