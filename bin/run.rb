@@ -1,8 +1,4 @@
 require_relative '../config/environment'
-require 'pry'
-require 'rest-client'
-require 'json'
-
 
 
 #                     _.---._
@@ -20,6 +16,9 @@ require 'json'
 #               ~-..----~
 
 
+welcome
 
-binding.pry
+
+
+# binding.pry
 puts "HELLO WORLD"
