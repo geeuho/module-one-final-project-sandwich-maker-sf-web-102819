@@ -62,5 +62,5 @@ def octothorpe_wall
 end
 
 def star_wall_thing 
-    puts "*-" * 39 + "*"
+    puts "*-" * 30 + "*"
 end

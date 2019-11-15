@@ -13,35 +13,40 @@ require_relative '../config/environment'
 #somethings in model can be taken care of through JSON - Allen
 
 
-puts "✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧"
+puts "  ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧"
 puts
-puts "                     _.---._"
-puts "                 _.-~       ~-._"
-puts "             _.-~               ~-._"
-puts "         _.-~        Let's          ~---._"
-puts "     _.-~           make a                ~\/ "
-puts "  .-~              sandwich!              _.;"
-puts "  :-._                 ☺             _.-~ ./"
-puts "  }-._~-._                    _..__.-~ _.-~)"
-puts "  `-._~-._~-._              / .__..--~_.-~"
-puts "      ~-._~-._\.        _.-~_/ _..--~~"
-puts "          ~-. \`--...--~_.-~/~~"
-puts "             \.`--...--~_.-~"
-puts "               ~-..----~"
 puts
-puts "✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧"
+puts "                       _.---._"
+puts "                   _.-~       ~-._"
+puts "               _.-~               ~-._"
+puts "           _.-~        Let's          ~---._"
+puts "       _.-~           make a                ~\/ "
+puts "    .-~              sandwich!              _.;"
+puts "    :-._                 ☺             _.-~ ./"
+puts "    }-._~-._                    _..__.-~ _.-~)"
+puts "    `-._~-._~-._              / .__..--~_.-~"
+puts "        ~-._~-._\.        _.-~_/ _..--~~"
+puts "            ~-. \`--...--~_.-~/~~"
+puts "               \.`--...--~_.-~"
+puts "                 ~-..----~"
+puts
+puts
+puts "  ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧"
+puts
 puts
 welcome
 
 
 
 # binding.pry
-puts "☆♬○♩●♪✧♩ ♩✧♪●♩○♬☆ ☆♬○♩●♪✧♩　♩✧♪●♩○♬☆ ♩✧♪●♩○♬☆"
+puts
+puts
+puts " ☆♬○♩●♪✧♩ ♩✧♪●♩○♬☆ ☆♬○♩●♪✧♩　♩✧♪●♩○♬☆ ♩✧♪●♩○♬☆"
 puts
 puts "     Thanks for stopping by!"
 puts
 puts
 puts "                        Come again soon :)"
 puts
-puts "☆♬○♩●♪✧♩ ♩✧♪●♩○♬☆ ☆♬○♩●♪✧♩　♩✧♪●♩○♬☆ ♩✧♪●♩○♬☆"
+puts " ☆♬○♩●♪✧♩ ♩✧♪●♩○♬☆ ☆♬○♩●♪✧♩　♩✧♪●♩○♬☆ ♩✧♪●♩○♬☆"
 puts
